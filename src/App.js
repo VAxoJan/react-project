@@ -1,7 +1,10 @@
 import './App.css';
+import MainDiv from './components/main/main';
 
 function App() {
-  return 
+  return (
+    <MainDiv/>
+  )
 }
 
 export default App;

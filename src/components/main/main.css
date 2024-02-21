@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainDiv{
+    width: 400px;
+    height: 700px;
+    border: 1px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 40px;
+    display: grid;
+}
+.bottom{
+    border-radius: 40px;
+
+}
+.avatar{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 250px;
+    border-radius: 50%;
+    left: 30%;
+}
