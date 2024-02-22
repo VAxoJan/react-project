@@ -23,11 +23,15 @@
     height: 150px;
     border-radius: 50%;
     display: flex;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 .location{
     color: white;
     display: flex;
     text-align: center;
     font-size: 20px;
+}
+.top{
+    background-color: rgb(43, 38, 38);
+    border-radius: 40px;
 }
