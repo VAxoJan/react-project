@@ -14,7 +14,7 @@ function MainDiv() {
             <Date location="Georgia"/>
         </div>
         <div className="bottom">
-            <Name className="firstName" name="vaxo janiashvili"/>
+            <Name name="vaxo janiashvili"/>
         </div>
       </div>
     </>
