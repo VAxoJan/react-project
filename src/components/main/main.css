@@ -35,3 +35,14 @@
     background-color: rgb(43, 38, 38);
     border-radius: 40px;
 }
+.prof{
+    margin-top: 10px;
+}
+.middle{
+    display: flex;
+    gap: 10px;
+    width: 74%;
+    height: 45px;
+    border: 0.1px solid white;
+    margin: 20px auto;
+}
